@@ -1,0 +1,19 @@
+legend{
+    border: 3px dashed bisque;
+    border-radius: 30%;
+    background-color: rgb(255, 252, 205);
+}
+fieldset{
+    border: 3px dashed rgb(255, 254, 196);
+    width: 290px;
+}
+fieldset:hover{
+    background-color: rgb(254, 255, 196);
+}
+input{
+    width: 70px ;
+    border-radius: 10%;
+}
+div{
+font-size: 20px;
+}
